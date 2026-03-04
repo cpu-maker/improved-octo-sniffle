@@ -1,5 +1,5 @@
 @echo off
-title SYSTEM SECURITY PROTOCOL
+title Norton
 color 0a
 mode con: cols=90 lines=30
 
